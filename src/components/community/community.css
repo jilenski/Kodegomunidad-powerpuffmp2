@@ -1,0 +1,15 @@
+.communityTitleLg {
+
+    font-family: 'Architects Daughter', cursive;
+    color: #E41A50;
+    font-size: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.communityPage {
+    background-color: #3861b320;
+    height: 100vh;
+
+}

@@ -1,0 +1,28 @@
+.eventsTitleLg {
+
+    font-family: 'Architects Daughter', cursive;
+    color: #E41A50;
+    font-size: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.eventsPage {
+    background-color: #3861b320;
+    height: 800px;
+
+}
+
+
+.allEvents {
+    flex:3;
+    margin:80px;
+    margin-top: 50px;
+}
+
+.allNews {
+    flex: 2;
+    margin:20px;
+}

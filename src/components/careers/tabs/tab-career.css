@@ -1,0 +1,52 @@
+.community {
+    width: 100%;
+    margin: 0px 25px 40px 25px;
+    
+}
+.my-tabs {
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  
+.alumniCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 1px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.alumniTitle {
+    font-family: 'Work Sans', sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+  .my-tabs .nav-link {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .my-tabs .nav-link.active {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .my-tabs .tab-pane {
+    padding: 10px;
+  }  
+
+  .freelance-title {
+    margin: 30px;
+  }
+
+  .fullTime-title {
+    margin: 30px;
+  }

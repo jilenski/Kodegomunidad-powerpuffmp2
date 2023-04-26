@@ -1,0 +1,61 @@
+.Carousel-item img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-image: none;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    height: 40px;
+    width: 40px;
+    z-index: 1;
+  }
+  
+  .carousel-control-prev {
+    left: 0;
+  }
+  
+  .carousel-control-next {
+    right: 0;
+  }
+
+  .sliderText {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    font-size: 80px;
+  }
+  
+  .sliderButton {
+    height: 50px;
+    width: 200px;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 20px;
+    border:none;
+    font-size: larger;
+    margin-right: 20px;
+  }
+  .sliderButton1 {
+    height: 50px;
+    width: 400px;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 20px;
+    border:none;
+    font-size: larger;
+    margin-right: 20px;
+  }
+  button {
+    background-color: #FFB703;
+    color:aliceblue
+    
+    
+  }
+
+  .jobButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly 200px;
+  }
